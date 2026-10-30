@@ -1,0 +1,3 @@
+DATABASE OPEN "data/zql_test.zdb";
+DATABASE INFO;
+DATABASE CLOSE;

@@ -1,0 +1,7 @@
+backups/
+data/
+*.zdb
+*.wal
+*.pyc
+__pycache__/
+build/
